@@ -1,5 +1,6 @@
 Hi 👋 My name is Kalle Pohjanjoki
-=================================Student at Turku University of Applied Sciences-----------------------------------------------I'm currently a student at Turku UAS studying for a Bachelor of Business Administration (BBA), Business Information Technology. Currently I'm most interested in iOS development.* 🌍  I'm based in Turku, Finland* ✉️  You can contact me at [kalle@pohjanjoki.com](mailto:kalle@pohjanjoki.com)* 🧠  I'm learning iOS Development, Swift, SwiftUI
+<h1>Student at Turku University of Applied Sciences<h1<
+I'm currently a student at Turku UAS studying for a Bachelor of Business Administration (BBA), Business Information Technology. Currently I'm most interested in iOS development.* 🌍  I'm based in Turku, Finland* ✉️  You can contact me at [kalle@pohjanjoki.com](mailto:kalle@pohjanjoki.com)* 🧠  I'm learning iOS Development, Swift, SwiftUI
 
 ### Skills
 
